@@ -756,7 +756,7 @@ paths:
       parameters:
         - type: string
           description: id
-          name: id
+          name: requestid
           in: path
           required: true
       responses:
