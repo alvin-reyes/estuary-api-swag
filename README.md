@@ -6,7 +6,7 @@ The Estuary API Swagger to document and extend it's APIs.
 
 ## How to get started with Estuary Swagger
 
-Swagger has a great interface that allows developers to test out the endpoints without having to download and run the node. 
+Swagger has a great interface that allows developers to test out the endpoints.
 
 ### Step 1: Generate your API Key
 To generate your key, you would either need to be invited by ARG to get a key or if you are testing this on your local environment, you can checkout the estuary source, build it and run the set up command.
